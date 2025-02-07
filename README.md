@@ -1,10 +1,13 @@
+# GPT Experiment Framework
+This app lets you prompt a local LLM, running through ollama, to chat with itself (or interactively with you).
+
 ```bash
 ollama serve 
 npm i .
 node ./chat-app.js [self/interactive]
 ```
 
-Exerpt from first test:
+Excerpt from first test:
 ```
 Iteration 26:
 
