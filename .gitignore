@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Logs and OS files
+logs/
+*.log
+*.gz
+debug.log
+dump.rdb
+*.pid
+.DS_Store
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
